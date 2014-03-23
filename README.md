@@ -1,3 +1,5 @@
+Execute this little sucker in your code, and make your life that much easier!
+
 eventListner
 ============
 javascript: (function () {
